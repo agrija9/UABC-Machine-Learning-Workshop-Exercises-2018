@@ -8,7 +8,7 @@ Machine learning scripts to perform regression, classification, clustering and d
 
 In order to run the jupyter notebooks from the exercises, it is required to have installed the following software/libraries in your computer:
 
-- Ubuntu Linux (16.04 or 18.04) (the scripts 
+- Ubuntu Linux (16.04 or 18.04) 
 - Python 2.7 (or 3.6)
 - Anaconda [link to installation steps](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
 - Jupyter (comes with the Anaconda installation)
