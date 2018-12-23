@@ -10,11 +10,11 @@ In order to run the jupyter notebooks from the exercises, it is required to have
 
 - Ubuntu Linux (16.04 or 18.04) 
 - Python 2.7 (or 3.6)
-- Anaconda [link to installation steps](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
+- Anaconda: [link to installation steps](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)
 - Jupyter (comes with the Anaconda installation)
-- Git clone this repo in your computer [how to clone a repository in your computer](https://help.github.com/articles/cloning-a-repository/)
-- Create an Anaconda environment and install packages [how to install Numpy using Anaconda] (https://anaconda.org/anaconda/numpy)
-	- Numpy, Seaborn, Matplotlib, plotly, cufflinks, Pandas, Scikit
+- Git clone this repo in your computer: [How to clone a repository in your computer](https://help.github.com/articles/cloning-a-repository/)
+- [First create an Anaconda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html) and then install the following packages there 
+	- [Numpy](https://anaconda.org/anaconda/numpy), Seaborn, Matplotlib, plotly, cufflinks, Pandas, Scikit
 	- Tensorflow and Keras 
 
 **Running the Jupyter Notebooks**
